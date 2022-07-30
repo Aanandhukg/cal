@@ -1,0 +1,39 @@
+.info 
+{
+    margin-top: 70px;
+}
+
+
+.ram
+{
+    height: 60px;
+    width: 100%;
+    background-color:yellow ;
+    margin-top: 0px;    
+    position: fixed;
+    top: 0;
+    right: 0;
+
+}
+
+.main 
+{
+    
+    top: 90%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    width: 150px;
+    height: 50px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    font-size: 14px;
+    margin: 70px;
+}
+
+a
+{
+   font-size: large;
+   text-decoration: none;
+   color: white;
+  
+}
